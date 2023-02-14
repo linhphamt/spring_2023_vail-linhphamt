@@ -13,4 +13,4 @@ Python review, the concept of Numpy and Panda
 For question 5: I'm not sure when to use another variable masked_array in my code, so I deleted the variable name and did the coding in a different way. There might be a chance that I did not fully understand the question though
 
 ## Additional resources used 
-<To be filled>
+https://www.knowledgehut.com/blog/data-science/pandas-vs-numpy
